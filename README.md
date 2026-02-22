@@ -26,7 +26,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://media1.tenor.com/m/uDNrp_r6gLAAAAAd/ada-wong-resident-evil.gif" height="160" alt="Ada Wong" /><br/>
+  <img src="https://media1.tenor.com/m/2nUcujLvuTMAAAAd/ttgg.gif" height="160" alt="Ada Wong" /><br/>
   <sub><b>Ada Wong · Resident Evil</b></sub>
 </td>
 <td align="center" width="33%">
