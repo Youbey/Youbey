@@ -23,10 +23,22 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Mai Shiranui pixel sprite - King of Fighters -->
-<img src="https://media.tenor.com/HxJRkp3bvmoAAAAj/mai-shiranui-kof.gif" height="180" alt="Mai Shiranui KOF Pixel Sprite" title="Mai Shiranui — King of Fighters" />
-
-*`Mai Shiranui · King of Fighters`*
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://media1.tenor.com/m/uDNrp_r6gLAAAAAd/ada-wong-resident-evil.gif" height="160" alt="Ada Wong" /><br/>
+  <sub><b>Ada Wong · Resident Evil</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.tenor.com/HxJRkp3bvmoAAAAj/mai-shiranui-kof.gif" height="190" alt="Mai Shiranui" /><br/>
+  <sub><b>★ Mai Shiranui · King of Fighters ★</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.tenor.com/A_VvdwKgkmMAAAAj/chunli-3rd-strike.gif" height="160" alt="Chun-Li" /><br/>
+  <sub><b>Chun-Li · Street Fighter</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -36,7 +48,7 @@
 
 ```yaml
 handle    : Youbey
-class     : Cybersecurity Engineer  [GRADUATE ✓]
+class     : Cybersecurity & Computer Science Engineer  [GRADUATE ✓]
 origin    : ENSIBS · France 🇫🇷
 status    : Active  ████████████  100%
 main_quest: Advanced Cybersecurity & CS Architecture
