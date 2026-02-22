@@ -1,121 +1,172 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:0a3d62,100:00d2ff&height=200&section=header&text=YOUBEY&fontSize=90&fontColor=00ffcc&desc=CYBER%20%E2%96%B8%20SECURITY%20%E2%96%B8%20UNIT&descSize=22&descAlignY=78&animation=fadeIn&stroke=00ffcc&strokeWidth=2" alt="Header" />
+
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/youbey"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="discordapp.com/users/Youbey"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-  <a href="https://www.instagram.com/_youbey_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a3d62&logoColor=00ffcc&labelColor=0d0221&style=for-the-badge)](https://www.linkedin.com/in/youbey)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0a3d62&logoColor=00ffcc&labelColor=0d0221&style=for-the-badge)](https://discordapp.com/users/Youbey)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0a3d62&logoColor=00ffcc&labelColor=0d0221&style=for-the-badge)](https://www.instagram.com/_youbey_)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Youbey.Youbey)
+
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youbey.Youbey&"  />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  INSERT COIN TO CONTINUE  ◀  CYBERSECURITY EDITION  ▶  1UP  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<!-- Mai Shiranui pixel sprite - King of Fighters -->
+<img src="https://media.tenor.com/HxJRkp3bvmoAAAAj/mai-shiranui-kof.gif" height="180" alt="Mai Shiranui KOF Pixel Sprite" title="Mai Shiranui — King of Fighters" />
+
+*`Mai Shiranui · King of Fighters`*
+
 </div>
 
-###
+---
 
-<h1 align="center">⚡Cybersecurity: The art of defending in an evolving battlefield.</h1>
+## 👾 PLAYER SELECT — ABOUT ME
 
-###
+```yaml
+handle    : Youbey
+class     : Cybersecurity Engineer  [GRADUATE ✓]
+origin    : ENSIBS · France 🇫🇷
+status    : Active  ████████████  100%
+main_quest: Advanced Cybersecurity & CS Architecture
+side_quest: [ Root-Me Challenges | AI Automation & Privacy | Chess Elo: 1700 | Muay thai Junior Champion ]
+```
 
-<h3 align="left">👩‍💻  About Me</h3>
+> *"Cybersecurity: The art of defending in an evolving battlefield."*
 
-###
+---
 
-<p align="left">I'm Youbey, a Cybersecurity engineering student<br><br>- 🔭 I’m studying at ENSIBS in France🇫🇷 <br>- 📚 I'm currently learning Computer Science & Cybersecurity<br>- ⚡ In my free time I solve Root-Me challenges</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="40" alt="networkx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🛡️ SKILL TREE — FULL BUILD
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Youbey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+### 🔐 Network & Security Operations
+
+![SIEM](https://img.shields.io/badge/SIEM%20·%20Wazuh%20·%20ELK-0a3d62?style=flat-square&logoColor=00ffcc)
+![VPN](https://img.shields.io/badge/Firewall%20%26%20VPN%20IPsec+SSL-0a3d62?style=flat-square)
+![HIDS](https://img.shields.io/badge/HIDS%2FHIPS-0a3d62?style=flat-square)
+![Proxy](https://img.shields.io/badge/Reverse%20Proxy%20%26%20Proxychains-0a3d62?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-0a3d62?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-0a3d62?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a3d62?style=flat-square&logo=wireshark&logoColor=00ffcc)
+
+### 💀 Ethical Hacking
+
+![Malware](https://img.shields.io/badge/Malware%20Analysis-1a0a2e?style=flat-square)
+![Kali](https://img.shields.io/badge/Kali%20Linux%20%2F%20Parrot%20OS-1a0a2e?style=flat-square&logo=kalilinux&logoColor=00ffcc)
+![OSINT](https://img.shields.io/badge/OSINT-1a0a2e?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-1a0a2e?style=flat-square)
+![SQLi](https://img.shields.io/badge/SQL%20Injection-1a0a2e?style=flat-square)
+![Phishing](https://img.shields.io/badge/Phishing-1a0a2e?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-1a0a2e?style=flat-square)
+![Scraping](https://img.shields.io/badge/Web%20Scraping-1a0a2e?style=flat-square)
+
+### 🏗️ Software Architecture & Development
+
+![Architecture](https://img.shields.io/badge/Software%20Architecture%20%26%20Security-0d3b2e?style=flat-square)
+![UML](https://img.shields.io/badge/UML%20%26%20Meta--modeling-0d3b2e?style=flat-square)
+![Java](https://img.shields.io/badge/Java%20·%20Spring%20Boot%20·%20Maven%20·%20Gradle-0d3b2e?style=flat-square&logo=springboot&logoColor=00ffcc)
+![Jakarta](https://img.shields.io/badge/Jakarta%20EE%20%2F%20Payara-0d3b2e?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0d3b2e?style=flat-square&logo=python&logoColor=00ffcc)
+![Distributed](https://img.shields.io/badge/Secure%20Distributed%20Systems-0d3b2e?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger%20API%20Docs-0d3b2e?style=flat-square&logo=swagger&logoColor=00ffcc)
+
+### 🖥️ Operating Systems & System Security
+
+![Security](https://img.shields.io/badge/System%20Security-2e1a0d?style=flat-square)
+![OS](https://img.shields.io/badge/Windows%20%26%20Linux-2e1a0d?style=flat-square&logo=linux&logoColor=00ffcc)
+![WinServer](https://img.shields.io/badge/Windows%20Server%20%2F%20Wallix-2e1a0d?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker%20%26%20Kubernetes-2e1a0d?style=flat-square&logo=docker&logoColor=00ffcc)
+![Lynis](https://img.shields.io/badge/Lynis%20%26%20DebScan-2e1a0d?style=flat-square)
+
+### 📜 Governance, Risk & Strategy
+
+![GRC](https://img.shields.io/badge/GRC-2e0d2e?style=flat-square)
+![Biz](https://img.shields.io/badge/Business%20Strategy-2e0d2e?style=flat-square)
+![ISO](https://img.shields.io/badge/ISO%20%2F%20HDS%20Qualifications-2e0d2e?style=flat-square)
+![EBIOS](https://img.shields.io/badge/E--BIOS%20Risk%20Manager-2e0d2e?style=flat-square)
+![CyberEdu](https://img.shields.io/badge/CyberEdu%20Modules%201--4-2e0d2e?style=flat-square)
+
+### ⚙️ Project Management & DevSecOps
+
+![DevSecOps](https://img.shields.io/badge/DevSecOps%20%2F%20DevOps-1a2e0d?style=flat-square)
+![Ansible](https://img.shields.io/badge/Ansible-1a2e0d?style=flat-square&logo=ansible&logoColor=00ffcc)
+![Jenkins](https://img.shields.io/badge/Jenkins%20CI%2FCD-1a2e0d?style=flat-square&logo=jenkins&logoColor=00ffcc)
+![Agile](https://img.shields.io/badge/Agile%20Scrum%20%2F%20Kanban-1a2e0d?style=flat-square)
+![Jira](https://img.shields.io/badge/JIRA-1a2e0d?style=flat-square&logo=jira&logoColor=00ffcc)
+
+### 💾 Databases & Web Development
+
+![SQL](https://img.shields.io/badge/MySQL%20·%20MariaDB%20·%20Oracle-0d1a2e?style=flat-square&logo=mysql&logoColor=00ffcc)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1a2e?style=flat-square&logo=mongodb&logoColor=00ffcc)
+![React](https://img.shields.io/badge/React.js-0d1a2e?style=flat-square&logo=react&logoColor=00ffcc)
+![Node](https://img.shields.io/badge/Node.js-0d1a2e?style=flat-square&logo=nodedotjs&logoColor=00ffcc)
+![SCSS](https://img.shields.io/badge/SCSS-0d1a2e?style=flat-square&logo=sass&logoColor=00ffcc)
+
 </div>
 
-###
+---
+
+## 🗃️ TECH STACK
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" title="Java" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" title="Linux" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="42" title="Docker" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" title="Kubernetes" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="42" title="Ansible" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" title="MySQL" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" title="MongoDB" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" title="Node.js" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React" />
+
+</div>
+
+---
+
+## 🏆 HIGH SCORE TABLE
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Youbey&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="195" alt="GitHub Streak" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Youbey&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5&count_private=true" height="195" alt="GitHub Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+█   GAME OVER?  NO — THIS IS JUST THE LOADING SCREEN.   █
+█         THE REAL QUEST STARTS NOW.   ► ► ►            █
+▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,50:0a3d62,100:0d0221&height=80&section=footer&animation=fadeIn" alt="Footer" />
+
+</div>
