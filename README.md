@@ -164,7 +164,6 @@ side_quest: [ Root-Me Challenges | AI Automation & Privacy | Chess Elo: 1700 | M
 
 <img src="https://streak-stats.demolab.com?user=Youbey&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="195" alt="GitHub Streak" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Youbey&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5&count_private=true" height="195" alt="GitHub Stats" />
 
 </div>
 
