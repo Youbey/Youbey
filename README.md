@@ -49,10 +49,10 @@
 ```yaml
 handle    : Youbey
 class     : Cybersecurity & Computer Science Engineer  [GRADUATE ✓]
-origin    : ENSIBS · France 🇫🇷
+origin    : Polytech Engineering School ENSIBS · France 🇫🇷
 status    : Active  ████████████  100%
 main_quest: Advanced Cybersecurity & CS Architecture
-side_quest: [ Root-Me Challenges | AI Automation & Privacy | Chess Elo: 1700 | Muay thai Junior Champion ]
+side_quest: [ DevSecOps Advocate | AI Automation & Privacy | Root-Me Challenges | Chess Elo: 980 | Muay thai ]
 ```
 
 > *"Cybersecurity: The art of defending in an evolving battlefield."*
